@@ -7,3 +7,5 @@ The task is to implement a controller to get the Frank-Emicka Panda robot to pic
 A resolved rate controller is used to perform this task. Null space optimization is utilized to maintain the robot's posture and gravity compensation is used to allow for self-balancing of the robot.
 The notebook ```project.ipynb``` should be run in order to simulate the task using ```pybullet``` and obtain the trajectory plots using ```matplotlib``` 
 
+### [Video Demo](https://youtu.be/kVciQE8W_BY)
+
